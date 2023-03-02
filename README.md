@@ -9,12 +9,9 @@ Features:
 
 
 1. Users can create an account and login to the application.
-3. Users can create, read, update, and delete blog posts.
-4. Users can view all blog posts in a paginated list.
-5. Users can view blog posts by category.
-6. Users can search for blog posts by keyword.
-7. Users can comment on blog posts.
-8. Users can like/dislike blog posts and comments.
+2. Users can create, read, update, and delete blog posts.
+3. Users can view all blog posts in a paginated list.
+
 
 
 Technology Stack:

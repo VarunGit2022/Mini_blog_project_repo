@@ -5,23 +5,26 @@ This is a MiniBlog project created using Python, Django, HTML, CSS, and Bootstra
 
 Features:
 
-•	Users can create an account and login to the application.
-•	Users can create, read, update, and delete blog posts.
-•	Users can view all blog posts in a paginated list.
-•	Users can view blog posts by category.
-•	Users can search for blog posts by keyword.
-•	Users can comment on blog posts.
-•	Users can like/dislike blog posts and comments.
+![image](https://user-images.githubusercontent.com/114444753/222398918-df874de4-e5b8-4574-84a4-17aea693257c.png)
+
+
+1. Users can create an account and login to the application.
+3. Users can create, read, update, and delete blog posts.
+4. Users can view all blog posts in a paginated list.
+5. Users can view blog posts by category.
+6. Users can search for blog posts by keyword.
+7. Users can comment on blog posts.
+8. Users can like/dislike blog posts and comments.
 
 
 Technology Stack:
 
-•	Python
-•	Django
-•	HTML
-•	CSS
-•	Bootstrap
-•	SQLite (for the database)
+1. Python
+2. Django
+3. HTML
+4. CSS
+5. Bootstrap
+6. SQLite (for the database)
 
 
 Installation:
